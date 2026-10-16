@@ -1,1 +1,1 @@
-# vajeban
+# vajeban - واژه‌بان
