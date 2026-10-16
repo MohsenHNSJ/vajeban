@@ -4,7 +4,7 @@
 
 <h1 align="center">Vajeban — واژه‌بان</h1>
 
-<p align="center"><em>!باشد که هیچ واژهٔ بیگانه‌ای در فرهنگ ما راه نیابد</em></p>
+<p align="center"><em>باشد که هیچ واژهٔ بیگانه‌ای در فرهنگ ما راه نیابد!</em></p>
 
 <p align="center">
   A dictionary of foreign words and their pure Persian equivalents,<br />
@@ -13,8 +13,7 @@
 
 <p align="center">
   <a href="https://vajeban.imsadra.dev/">Website</a> ·
-  <a href="data/">Data</a> ·
-  <a href="scripts/gboard_export.py">Export script</a>
+  <a href="data/">Database</a>
 </p>
 
 ---
