@@ -6,6 +6,6 @@
         "allow_preamble": true
     },
     "MD013": {
-        "line_length": 100
+        "line_length": 110
     }
 }
