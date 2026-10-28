@@ -7,7 +7,7 @@
 # Test without releasing: Actions -> Release -> "Run workflow".
 # Manual runs only build and validate the file and attach it to the run as an
 # artifact; no release is created.
-name: Release
+name: بَرپاشِش
 
 on:
   push:
