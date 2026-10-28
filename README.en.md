@@ -19,7 +19,7 @@
 
 <p align="center">
  <a href="README.md">
-  <img alt="یه پارسی یخوانید" src="https://img.shields.io/badge/Read%20in-Persian-blue?style=for-the-badge" />
+  <img alt="به پارسی یخوانید" src="https://img.shields.io/badge/Read%20in-Persian-blue?style=for-the-badge" />
  </a>
 </p>
 
