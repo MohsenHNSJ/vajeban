@@ -16,11 +16,17 @@
   <a href="data/">پای‌گاهِ داده</a>
 </p>
 
+<p align="center">
+ <a href="README.en.md">
+  <img alt="Read in English" src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge" />
+ </a>
+</p>
+
 ---
 
 ## گُماشتَن (Gboard)
 
-- گام اول: پرونده واژه‌نامه را دریافت کنید.  بارگیری  [واپَسین نَسْکه](https://github.com/lnxpy/vajeban/releases/latest).
+- گام نُخُست: پرونده واژه‌نامه را دریافت کنید.  بارگیری  [واپَسین نَسْکه](https://github.com/lnxpy/vajeban/releases/latest).
 
 - گام دوم:  پرونده را به گوشی اندروید خود فِرِستِش کنید.
 
