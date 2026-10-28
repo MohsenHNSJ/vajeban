@@ -34,7 +34,7 @@ permissions:
 
 jobs:
   build:
-    name: Build dictionary
+    name: ساخت واژه‌نامه
     runs-on: ubuntu-latest
     outputs:
       version: ${{ steps.version.outputs.version }}
